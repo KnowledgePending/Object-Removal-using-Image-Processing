@@ -2,11 +2,11 @@
     <img src="./images/golf.jpg" display="inline-block"
     margin-left=" auto"
     margin-right=" auto"
-    width="40%" ></img>
+    width="50%" ></img>
     <img src="./images/golf_after.png" display="inline-block"
     margin-left=" auto"
     margin-right=" auto"
-    width="40%"></img>
+    width="50%"></img>
 </div>
 
 # Object Removal using Image Processing
